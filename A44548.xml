@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Horrible nevves from VVarvvick-shire Declaring the Kings Majesties intention to go up against Warwick Castle, with his army, and to oppose all that party that stands for the Parliament. Also the Lord Brooks his intention to meet his Majesty, and to hazard his life in the just maintenance of the commands of the High Court of Parliament, against the malignant party of this kingdome. Likewise, the protestation of the Lords and Commons assembled in Parliament, concerning their intentions for the imployment of these forces now raised in this kingdome. Ordered to be printed, Ion. Bron. Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44548</idno>
+            <idno type="STC">Wing H2859</idno>
+            <idno type="STC">ESTC R213052</idno>
+            <idno type="EEBO-CITATION">99825570</idno>
+            <idno type="PROQUEST">99825570</idno>
+            <idno type="VID">29956</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29956)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1890:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Horrible nevves from VVarvvick-shire Declaring the Kings Majesties intention to go up against Warwick Castle, with his army, and to oppose all that party that stands for the Parliament. Also the Lord Brooks his intention to meet his Majesty, and to hazard his life in the just maintenance of the commands of the High Court of Parliament, against the malignant party of this kingdome. Likewise, the protestation of the Lords and Commons assembled in Parliament, concerning their intentions for the imployment of these forces now raised in this kingdome. Ordered to be printed, Ion. Bron. Cler. Parl.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Rider,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 20. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Warwick (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29956:1"/>
+            <!-- PDF PAGE 13 -->
+            <p>Horrible Nevves FROM VVARVVICK-SHIRE.</p>
+            <p>Declaring the Kings Majeſties in<g ref="char:EOLhyphen"/>tention to go up againſt <hi>Warwick</hi> Caſtle, with his Army, and to oppoſe all that party that ſtands for the <hi>Parliament.</hi>
+            </p>
+            <p>Alſo the Lord <hi>Brooks</hi> his intention to meet his Majeſty, and to hazard his life in the juſt maintenance of the Commands of the High Court of <hi>Parliament,</hi> againſt the malignant party of this Kingdome.</p>
+            <p>Likewiſe, the Proteſtation of the Lords and Commons aſſembled in <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> concerning their intentions for the im<g ref="char:EOLhyphen"/>ployment of theſe forces now raiſed in this KINGDOME.</p>
+            <p>Ordered to be printed, <hi>Ion. Bron. Cler. Parl.</hi>
+            </p>
+            <p>London, Printed for <hi>T. Rider, Aug.</hi> 20. 1642.</p>
+            <pb facs="tcp:29956:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <pb facs="tcp:29956:2"/>
+            <!-- PDF PAGE 14 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:29956:3"/>
+            <!-- PDF PAGE 15 -->
+            <pb n="3" facs="tcp:29956:3"/>
+            <!-- PDF PAGE 15 -->
+            <head>Horrible Nevves from <hi>Warwick-ſhire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Any troubles and di<g ref="char:EOLhyphen"/>ſtractions have the County of <hi>Warwick</hi> groned under theſe late dayes, being oc<g ref="char:EOLhyphen"/>caſioned by thoſe broyles between the Lord <hi>Brooks</hi> and the Earle of <hi>Northampton,</hi> the one being Lord Lieutenant of this <hi>Shire</hi> for the <hi>Militia,</hi> the other Commiſsioner for the <hi>Array,</hi> authorized by his <hi>Majeſty.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:29956:4"/>
+               <!-- PDF PAGE 16 -->
+But now their feares are greater than ever, and their diſtractions oc<g ref="char:EOLhyphen"/>caſioned by ſuppoſition of what might happen, are now moulded into a fearefull aſſurance of what muſt happen, if God prove not more mercifull (namely) a bloudy war. For they have received cer<g ref="char:EOLhyphen"/>taine intelligence that the King hath ſet down his reſolution to come to <hi>VVarwick</hi> with his forces, withal, reſolving to endeavour by faire meanes to reduce them to their for<g ref="char:EOLhyphen"/>mer obedience, if poſsible, (but if not, as it is not to be expected) they have great cauſe to feare a more fa<g ref="char:EOLhyphen"/>tall event, the Cavaliers being apt to engage themſelves in any buſineſſe that may promote a warre between
+<pb n="5" facs="tcp:29956:4"/>
+               <!-- PDF PAGE 16 -->the King and <hi>Parliament.</hi> VVhich the Lord <hi>Brooks</hi> knowing, hath ſo ta<g ref="char:EOLhyphen"/>ken order both for the ſecurity of the Kingdom and the Caſtle which was committed to his truſt, that he ſent private intelligence to the inhabi<g ref="char:EOLhyphen"/>tants of that party in the County, withall certifying that his intent was to meet his <hi>Majeſty,</hi> and if occaſion ſhould require (the malignant par<g ref="char:EOLhyphen"/>ty offering any violence) that he was fully determined to hazard his life in the defence of his <hi>Majeſty</hi> and the <hi>Parliament,</hi> and the preſervation of the Peace of the Kingdom.</p>
+            <p>VVithall deſiring their aſsiſtance intimating unto them the great miſ<g ref="char:EOLhyphen"/>ſery that they ſhould undergo, ſhould the malignant party prevaile
+<pb n="6" facs="tcp:29956:5"/>
+               <!-- PDF PAGE 17 -->and get the upper hand, their wives ſhould be ſubject to rape, their chil<g ref="char:EOLhyphen"/>dren to murther, their houſes to be burnt, and all to be deſtined to ruin, and other confuſion.</p>
+            <p>This News being whiſpered through the county, wrought more with them than if a generall allarme had been beat through the whole County, for each man with ſpeed and privacy armed himſelfe and re<g ref="char:EOLhyphen"/>paired to <hi>Warwick,</hi> where they were with joy entertained by the City, who with fearefull hearts expected the iſſue; for it was expected that the King would have been there on <hi>Thurſday</hi> the 8 of <hi>Aug.</hi> but his reſo<g ref="char:EOLhyphen"/>lution altered, and he goes not thi<g ref="char:EOLhyphen"/>ther till <hi>Saturday</hi> the 20 of <hi>Aug.</hi> what
+<pb n="7" facs="tcp:29956:5"/>
+               <!-- PDF PAGE 17 -->the end will be, God knows, but the generall County is full of feare.</p>
+            <p>On the 17 day of <hi>Aug.</hi> to <hi>Southam</hi> there came in 2 Companies of Voluntiers, who were bil<g ref="char:EOLhyphen"/>letted there that night, but on the next day be<g ref="char:EOLhyphen"/>tween <hi>Lemington</hi> &amp; <hi>Southam</hi> they were met by the Earle of <hi>Northampton,</hi> who with an 100 &amp; odd Cavaliers oppoſed them but they joyning both Companies and doubling the front, gave them a ſound charge; but wanting experience to levell, their muskets ſhot ſo low, that they kil'd more horſes than men, by which meanes they tooke ten priſoners, and kild 5, the reſt flying as faſt as their horſes could run, ſome men they had wounded, but not many, ſo for that night they marched to Eaſt <hi>Lemington</hi> &amp; were billetted that night, and entertained by Parſon <hi>L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver,</hi> who feaſted both Compa<g ref="char:EOLhyphen"/>nies at his own charge, being the firſt good deed that ever he did in his life, &amp; ſome thinke that it was done more for feare than affection, being a very factious turbulent fellow, and hated of all that part of the Countrey.</p>
+            <p>This is the chiefe of the Nevvs in this Coun<g ref="char:EOLhyphen"/>trey,
+<pb n="8" facs="tcp:29956:6"/>
+               <!-- PDF PAGE 18 -->only we received A Declaration or Pro<g ref="char:EOLhyphen"/>teſtation concerning the intention of the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> for the imployment of thoſe forces now raiſed throughout the Kingdom, the full ſubſtance was as follows. We the Lords are reſolved to expoſe our lives and fortunes for the defence and maintenance of the true Pro<g ref="char:EOLhyphen"/>teſtant Religion, the Kings Perſon, Honor and Eſtate, the Power and Priviledge of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and the juſt Right and Liberties of the Subject. And We do require all thoſe who have any ſenſe of Piety, Honor, or Compaſsi<g ref="char:EOLhyphen"/>on, to helpe a diſtreſſed State, and to come in unto our aid and aſſiſtance, this being the true Cauſe, for which Cauſe and in the juſt de<g ref="char:EOLhyphen"/>fence whereof We will live and dye.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29956:6"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </body>
+   </text>
+</TEI>
